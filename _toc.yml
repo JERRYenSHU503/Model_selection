@@ -4,9 +4,12 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/markdown
-  - file: book/notebooks
-  - file: book/bibliography
+  - file: model_selection_opensource_book/model-selection
+  - file: model_selection_opensource_book/assignment/learning-curve-to-identify-overfit-underfit
+  - file: model_selection_opensource_book/assignment/lasso-and-ridge-regression
+  - file: model_selection_opensource_book/assignment/dropout-and-batch-normalization
+  - file: model_selection_opensource_book/assignment/regularized-linear-models
+
 
 # Or you organize the TOC by parts
 
