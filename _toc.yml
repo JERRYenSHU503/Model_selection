@@ -2,9 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: index
+root: model_selection_opensource_book/model-selection
 chapters:
-  - file: model_selection_opensource_book/model-selection
+
   - file: model_selection_opensource_book/assignment/learning-curve-to-identify-overfit-underfit
   - file: model_selection_opensource_book/assignment/lasso-and-ridge-regression
   - file: model_selection_opensource_book/assignment/dropout-and-batch-normalization
